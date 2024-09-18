@@ -1,0 +1,8 @@
+{
+  "env": {
+    "worker": true
+  },
+  "globals": {
+    "self": "readonly"
+  }
+}
